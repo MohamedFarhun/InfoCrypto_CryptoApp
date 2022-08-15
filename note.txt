@@ -1,0 +1,14 @@
+Notes:-
+Installations:-
+(Make sure u have installed yarn)
+*Create a react app using yarn create react-app yourappname
+*yarn add @material-ui/core @material-ui/lab
+*yarn add react-router-dom@5.2.0
+*yarn add axios
+*yarn add react-alice-carousel
+*yarn add react-html-parser
+*yarn add react-chartjs-2 chart.js
+*yarn add buffer
+*yarn add firebase
+*yarn add react-google-button
+*yarn add react-icons
