@@ -6,6 +6,7 @@ import Header from "./components/Header";
 import HomePage from "./Pages/HomePage";
 import Alert from "./components/Alert"
 
+
 const useStyles = makeStyles(() => ({
   App: {
     backgroundColor: "#14161a",
